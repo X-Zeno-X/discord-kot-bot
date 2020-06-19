@@ -1,0 +1,7 @@
+
+.idea/
+data/
+images/
+node_modules/
+modules/cmd/discord/dev/test.js
+modules/cmd/twitch/user/test.js
